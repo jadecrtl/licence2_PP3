@@ -1,0 +1,27 @@
+Comment va se présenter la vidéo de soutenance :
+
+Dead line de la vidéo est le 14 janvier 2022 à 23h59
+Vidéo décrivant notre produit et non la contribution de chacun.
+Toutes les fonctionnalités doivent être décrites et montrées .
+Tout le monde doit parler.
+Durée MAXIMALE de la vidéo : n minutes (n appartenant au naturel etant le 
+nombre d'étudiants constituant le groupe)
+Faire la publicitée des fonctionnalités de notre produit avec des exemples.
+Le client va juste regarder la pub du produit pas le code.
+On doit tous parler d'une fonctionnalité ou de plusieurs fonctionnalités du 
+projet. On rend la vidéo à notre chargé de TP. On peut mettre notre vidéo 
+sur le dépot gitlab.
+
+Comment va se présenter l'examen final :
+
+6 janvier de 16h à 17h portera sur la compréhension du cours
+35% pour l'examen et 65% pour le projet pour la note finale
+Revoir les commandes git bien comme il faut.
+Il nous donne un context et dans ce contexte que devrait faire cette commande.
+Questions sur la verification, validation, génie logiciel, qualité du logiciel, gitlab.
+
+Amphi :
+
+junit permet de faire des tests unitaires. Un test unitaire teste une fonction à la fois.
+Test d'intégration je teste que les fonctions ensembles marchent
+(comme gitlab avec les pipelines).
